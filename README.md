@@ -8,7 +8,7 @@
 <body>
     <header>
         <h1>Shubham</h1>
-        <p>Cloud/DevOps Engineer</p>
+        <p>Cloud/DevOps </p>
     </header>
     <section id="bio">
         <h2>Linux Associate with 3 years of experience in system administration. Currently, I'm upskilling in AWS and DevOps practices to enhance my cloud and automation skills.
