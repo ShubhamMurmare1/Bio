@@ -1,21 +1,4 @@
-# Hello, 👋
 
-## About Me
-I'm a Linux Associate with 3 years of experience in system administration. Currently, I'm upskilling in AWS and DevOps practices to enhance my cloud and automation skills.
-
-## Skills
-- Linux System Administration
-- AWS Services (EC2, IAM, EKS, S3, EFS, FSx, Lambda, )
-- Docker & Kubernetes
-- CI/CD with GitHub Actions
-
-## Projects
-- [Project 1](https://github.com/ShubhamMurmare1/project1): 
-- [Project 2](https://github.com/yourusername/project2): 
-
-## Contact
-- Email: shubhammurmare1997@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/shubham-murmare-a071a51b2)
 
 <!DOCTYPE html>
 <html lang="en">
