@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +37,7 @@
     <section id="contact">
         <h2>7887476477</h2>
         <p>Email: shubhammurmare1997@gmail.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/shubham-murmare-a071a51b2">your-profile</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/shubham-murmare-a071a51b2">linkedin-profile</a></p>
     </section>
     <footer>
         <p>&copy; 2025 Shubham</p>
