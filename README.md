@@ -42,20 +42,7 @@
         <p>&copy; 2025 Shubham</p>
     </footer>
 
-    <script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const greeting = document.createElement('p');
-        const hour = new Date().getHours();
-        if (hour < 12) {
-            greeting.textContent = 'Good Morning!';
-        } else if (hour < 18) {
-            greeting.textContent = 'Good Afternoon!';
-        } else {
-            greeting.textContent = 'Good Evening!';
-        }
-        document.querySelector('header').appendChild(greeting);
-    });
-</script>
+   
 
 </body>
 </html>
